@@ -1,0 +1,80 @@
+% !TEX program = xelatex
+
+\documentclass{resume}
+%\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+ 
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+\name{Kai Wang}
+
+% {E-mail}{mobilephone}{homepage}
+\contactInfo{kw1701@nyu.edu}{(+1) 347-698-8475}{https://goo.gl/55BczI}
+% {E-mail}{mobilephone}
+%\basicContactInfo{xxx@kingwang.me}{(+1) 929-888-3746}
+
+\section{\faUser\ Objective}
+To obtain a Financial analysis / Data analysis position from an organization where I can bring my dedication, responsibility and passion and utilize my educational qualifications.
+ 
+\section{\faGraduationCap\ Education}
+\datedsubsection{\textbf{New York University (NYU)}, New York}{Sept 2014 -- May 2016}
+\textit{Master of Science} in Financial and Risk Engineering (3.78/4.0) \\
+\textit{Courses} : Big Data in Finance, Financial Computing(C++), Quantitative Methods in Fin
+\datedsubsection{\textbf{Central University of Finance and Economics}, Beijing, China}{Sept 2010 -- July 2014}
+\textit{Bachelor of Science} in Mathematics and Financial Mathematics (83/100) \\
+\textit{Courses} : Advanced Programming Language(C), Computation to Financial Engineering(Matlab)
+
+\section{\faUsers\ Experience}
+\datedsubsection{\textbf{Industrial and Commercial Bank of China Ltd.} Beijing, China}{July 2013 -- Mar 2014}
+\textbf{Analyst Assistant Intern}
+\begin{itemize}
+  \item Assisted with pension fund processing, provied clients with personal financial planning
+  \item Assisted with issuing of credit and examining letter of credit
+\end{itemize}
+
+\section{\faCogs\ Projects}
+\datedsubsection{\textbf{Financial Computing (C++, libcurl)}}{July 2015}
+Evaluate the impact of earning report on stock price
+\begin{itemize}
+  \item Retrieved historical price data from Yahoo Finance with libcurl
+  \item Created STL containers to manage the stock prices and earning information
+  \item Operated stock data with classes and arithmetic operators overloading and generated Excel graphs with Excel driver
+\end{itemize}
+
+\datedsubsection{\textbf{R Packages Application (R)}}{Mar 2015}
+Used Hadoop and R to compute the Relationships of different stack prices.
+\begin{itemize}
+  \item Estimated the copula parameters with copula packages.
+  \item Tested multi-regression in factor model, GDP growth prediction with AR model.
+\end{itemize}
+
+\datedsubsection{\textbf{Financial Data Processing (Hadoop + R)}}{Mar 2015}
+% \role{Hadoop, R}{Course Project for Financial Big Data}
+Used Hadoop and R to compute the Relationships of different stock prices.
+\begin{itemize}
+  \item Written the Mapper and Reducer function to implement the linear regression Algorithm.
+  \item Processed the 10 years of prices of set of stocks with MapReduce to get returns.
+\end{itemize}
+
+\datedsubsection{\textbf{Portfolio Risk Management Analysis}}{Nov 2014}
+Developed macroeconomics factor models, fundamental factor models and statistical models to forecasting risks and potential returns.
+\begin{itemize}
+  \item Integrated data with lookup and reference functions.
+  \item Tested multi-regression and principle components analysis model with some out-of-sample
+\end{itemize}
+
+\section{\faCog\ Skills}
+\begin{itemize}[parsep=0.5ex]
+  \item Programming Languages: C++, Java, R, Matlab, SQL 
+  \item Platform/Software: Excel, SPSS, MySQL, Hadoop
+\end{itemize}
+
+% \section{\faInfo\ Miscellaneous}
+% \begin{itemize}[parsep=0.5ex]
+%   \item Blog: http://your.blog.me
+%   \item GitHub: https://github.com/username
+%   \item Languages: English - Fluent, Mandarin - Native speaker
+% \end{itemize}
+
+\end{document}

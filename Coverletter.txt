@@ -1,0 +1,24 @@
+QING WANG
+1648 80th St. APT. 2R Brooklyn, NY 11214
+Cell: 9298883746. qw422@nyu.edu
+
+Dear Recruiting Manager:
+
+I am writing to apply for the position Software Engineer (Java) of Priceline. I know this position from LinkedIn. As I have checked the information for this job. I believe that my education and experiences make me a qualified candidate for this position.
+
+Java is my most familiar programming language as I have been using Java for years, I used to finished many side project with Java, like Chatter, Image processing, those project helps me to gain the knowleges like Multi-threads, Collections and Object-Oriented Programming of Java.
+
+Due to the hard work on course study of the past years, I gain solid knowledge in the area of Computer Science and Engineering, like Operating Systems, Databases, Networking and Object-Oriented Programming. The project for the course Principle Database Systems let me started with Web Design, from the back-end (MySQL/PHP) to the front-end (HTML/CSS/JavaScript). I gained basic the skill of web development with LAMP after finishing this project.
+
+I am used to serve as a Software Engineer Intern at AdminSys Inc, a startup that just established at earlier time this year. The past two months’ professional experience helps me understand to some degree the whole process of developing products, from requirements to design, coding, testing, deployment and Maintenance. The team leader, who is an outstanding software engineer, teaches me what properties a full-stack software engineer should have and how to get these properties.
+
+As a quick learner and self-starter, I can quickly get adapted to new Environments and learn new knowledge and skills. All the experiences and properties that I have will help me to be an outstanding software engineer. 
+
+I would greatly appreciate the chance to work for Priceline and make my contribution with the related Experience and also develop myself through working with outstanding Software Engineers. I am looking forward to meet with you to discuss this position in further detail. Please feel free to contact me at your convenience by phone (929-888-3746) or email (qw422@nyu.edu).
+
+Thanks for your time and consideration.
+
+Sincerely,
+Qing Wang 
+
+
